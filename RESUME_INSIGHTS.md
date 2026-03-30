@@ -8,7 +8,7 @@
 
 ### Databricks Workflow Orchestration
 
-![Databricks Workflow](images/health-cms-workflow.png)
+![Databricks Workflow](images/pipeline.png)
 
 **Workflow Stages:**
 1. **dim_processing_providers** (1m 13s) - Provider dimension table creation

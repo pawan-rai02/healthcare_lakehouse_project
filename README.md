@@ -45,7 +45,7 @@ This project implements a **Medallion Architecture** with three distinct layers:
 
 ### Pipeline Orchestration
 
-![Databricks Workflow](images/health-cms-workflow.png)
+![Databricks Workflow](images/pipeline.png)
 
 **Workflow Performance:**
 - **Total Runtime:** 3m 17s (Serverless compute)
@@ -72,7 +72,7 @@ healthcare_lakehouse_project/
 │   ├── provider.csv             # Sample provider data
 │   └── provider_drugs.csv       # Sample provider-drug data
 ├── images/
-│   └── health-cms-workflow.png  # Databricks workflow orchestration
+│   └── pipeline.png             # Databricks workflow orchestration
 ├── README.md
 └── RESUME_INSIGHTS.md           # Resume bullet points and project insights
 ```
